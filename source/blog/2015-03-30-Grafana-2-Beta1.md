@@ -65,7 +65,7 @@ You can embed a single panel on another web page using the panel share dialog. B
 with a graph panel (taken from dashoard snapshot at [snapshot.raintank.io](http://snapshot.raintank.io). Try
 hovering or zooming on the panel below!
 
-<iframe src="http://snapshot.raintank.io/dashboard-solo/snapshot/cfHSDG5ye0civ5H2sqhWpnHW4f3Ra6hZ?panelId=4&fullscreen" width="650" height="300" frameborder="0"></iframe>
+<iframe src="http://snapshot.raintank.io/dashboard/solo/snapshot/IQ7iZF00sHalq0Ffjv6OyclJSA1YHYV1?panelId=4&fullscreen" width="650" height="300" frameborder="0"></iframe>
 
 ### New dashboard top header
 
